@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My Website
+title: top.nuozhen.website.guide()
 
 # Your name to show in the footer
-author: Some Person
+author: Aunt_nuozhen
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  关于: "aboutme"
+  资源:
+    - top.nuozhen.website.blogs(): "https://blog.nuozhen.top"
+    - top.nuozhen.website.studio(): "https://nuozhen.top"
+  起始: "https://nuozhen.top/"
 
 ################
 # --- Logo --- #
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/title-img.png"
 
 
 #####################################
