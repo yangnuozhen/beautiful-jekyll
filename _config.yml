@@ -50,10 +50,10 @@ title-img: "/assets/img/title-img.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "auntnuozhen@qq.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: yangnuozhen
   twitter: aunt_nuozhen
-  youtube: aunt_nuozhen
+  youtube: @aunt_nuozhen
   telegram: aunt_nuozhen
   steam: nuozhen1
 #  facebook: aunt_nuozhen
