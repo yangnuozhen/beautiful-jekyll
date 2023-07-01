@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: top.nuozhen.website.guide()
+title: top.nuozhen.website.homepage()
 
 # Your name to show in the footer
 author: Aunt_nuozhen
@@ -23,7 +23,7 @@ navbar-links:
   关于: "aboutme"
   资源:
     - top.nuozhen.website.blogs(): "https://blog.nuozhen.top"
-    - top.nuozhen.website.studio(): "https://nuozhen.top"
+    - top.nuozhen.website.studio(): "https://studio.nuozhen.top"
   起始: "https://nuozhen.top/"
 
 ################
